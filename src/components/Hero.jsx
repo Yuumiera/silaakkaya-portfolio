@@ -58,7 +58,7 @@ const Hero = () => {
                         border: '4px solid var(--primary-color)',
                         boxShadow: '0 0 50px rgba(251, 113, 133, 0.3)'
                     }}>
-                        <img src="/profile.jpg" alt="Sila Akkaya" style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 20%' }} />
+                        <img src="profile.jpg" alt="Sila Akkaya" style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 20%' }} />
                     </div>
                 </div>
             </div>

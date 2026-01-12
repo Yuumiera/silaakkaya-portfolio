@@ -8,42 +8,42 @@ const Projects = () => {
             description: "Book Exchange Mobile Application. A platform for users to swap books locally.",
             tags: ["Mobile", "Flutter", "Firebase"],
             links: { github: "#" },
-            image: "/projects/swapshelf.png"
+            image: "projects/swapshelf.png"
         },
         {
             title: "Roomie",
             description: "Student Dormitory & Roommate Finder Platform. Helps students find compatible roommates and housing.",
             tags: ["Mobile", "Flutter", "Firebase", "Node.js"],
             links: { github: "#" },
-            image: "/projects/roomie.jpg"
+            image: "projects/roomie.jpg"
         },
         {
             title: "Timora",
             description: "HCI-Based Blog Web Application. Focuses on accessibility and user experience design principles.",
             tags: ["Web", "HCI", "Design"],
             links: { github: "#" },
-            image: "/projects/timora.png"
+            image: "projects/timora.png"
         },
         {
             title: "AI-Driven Food Crisis Prediction",
             description: "Deep Learning Project utilizing satellite and climate data to predict food crises.",
             tags: ["AI", "Deep Learning", "Python"],
             links: { github: "#" },
-            image: "/projects/food-crisis.png"
+            image: "projects/food-crisis.png"
         },
         {
             title: "Credit Score Classification",
             description: "Machine Learning Project to classify credit scores based on financial history.",
             tags: ["ML", "Data Science", "Python"],
             links: { github: "#" },
-            image: "/projects/credit-score.jpg"
+            image: "projects/credit-score.jpg"
         },
         {
             title: "Brain Tumor Detection and Analysis Using MATLAB",
             description: "Image-processing application that analyzes brain MRI images to detect tumors using MATLAB.",
             tags: ["MATLAB", "Image Processing", "Healthcare"],
             links: { github: "#" },
-            image: "/projects/brain-tumor.png"
+            image: "projects/brain-tumor.png"
         }
     ]
 
